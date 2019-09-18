@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: bundle.a.test
+Bundle-SymbolicName: bundle.a.test
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: bundle.a
+Automatic-Module-Name: bundle.a.test
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: testframework
